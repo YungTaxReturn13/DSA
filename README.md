@@ -1,7 +1,7 @@
 # Study Plan for Data Structures and Algorithms 
 
 ## Big O Analysis
-
+- [X] Overview 
 ## Array-Based Sequences
 - [ ] Add once you start working through 
 
