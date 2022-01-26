@@ -88,16 +88,27 @@ Beautiful code:
 # Optimize and Solve Techniques
 
 ## Look for BUD
+* Bottlenecks 
+* Unecessary Work 
+* Duplicated work 
 
 ## DIY 
+Try working through the problem intuitevely on a real example. Often a bigger example will be easier 
 
 ## Simplify and Generalize 
+First, simplify or tweak some constraint, such as the data type. Then, solve this new simplified version of the problem. Finally, once you have an algorithm for the simplified problem, try to adapt it to the more complex version 
 
 ## Base Case and Build 
+Try to solve a problem first for a base case (for example, n = 1) and then try to build up from there. This strategy often leads to natural recursive algorithms 
 
 ## Data Structure Brainstorm 
+Simply run through a list of data structures and try to apply each one. This approach is useful because solving a problem may be tribial once we know which data structure is appropriate 
 
 # Best Conceivable Runtime (BCR)
+
+Considering the best conceivable runtime can offer a useful hint for some problems. 
+
+Note that the best conceivable runtime is not necessarily acheivable. it says only that you can't do better than it 
 
 # Misc
 
