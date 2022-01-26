@@ -110,12 +110,23 @@ Considering the best conceivable runtime can offer a useful hint for some proble
 
 Note that the best conceivable runtime is not necessarily acheivable. it says only that you can't do better than it 
 
-# Misc
+Helpful in terms of framing the problem and constraints. Be comfortable with Big O notation; finding BCR should take literally seconds 
 
-## Handling Incorrect Answers 
+# What Good Coding Looks Like 
 
-## When You Have Heard the Question Before 
+Good coding is:
+* Correct: The code should work correctly on all expected and unexpected inputs 
+* Efficient: The code should operate as efficiently as possible in terms of both time and space. This efficiency includes both the asymptotic (big O) efficiency and the practical, real-life efficiency. That is, a constant factor might get dropped when oyu compute the big O time, but in real life, it can make a big difference 
+* Simple: If you can do something in 10 lines of code instead of 100, do that
+* Readable: Fancy code that does a bunch of complex shit is not necessarily *good* code 
+* Maintainable: Code should be reasonably adaptable to changes during the life cycle of a product and should be easy to maintain by other developers, as well as the initial developer 
 
-## The "Perfect" Language for Interviews 
+## Use Data Structures Generously 
 
-## What Good Coding Looks Like 
+## Appropriately Reuse Code 
+
+## Modular
+
+## Flexible and Robust
+
+## Error Checking
