@@ -3,12 +3,12 @@
 ## Big O Analysis
 - [X] Overview 
 ## Array-Based Sequences
-- [ ] Add once you start working through 
+- [X] 
 
 ## Stacks, Queues, and Dequeues
 
 ## Linked Lists 
-
+Working
 ## Trees
 
 ## Recursion
@@ -16,7 +16,7 @@
 ## Priority Queues 
 
 ## Maps, Hash Tables, And Skip Lists 
-
+- [X] 
 ## Search Treest 
 
 ## Sorting and Selection 
