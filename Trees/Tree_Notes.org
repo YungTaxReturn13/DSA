@@ -1,0 +1,14 @@
+#+title: Tree_Notes
+
+* General Trees
+Tree Structures allow us to implement a host of algorithms much faster than when using linear data structures
+
+** Tree Defenitions and Properties
+A tree is an abstract data type that stores elements hierarchcally.
+
+
+*** Formal Tree Defenition
+
+*** Ordered Trees
+
+** The abstract data type
